@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bea15b890ae14c545992e0c3ef38b3a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab1: {fileID: 2850120909158216419, guid: 23b0a8f359569ae43a70609b6663c2ee, type: 3}
+  - playerPrefab2: {fileID: 7200265084162224920, guid: 6582faac1340c2545aef3ca0c809999d, type: 3}
+  - rainPrefab: {fileID: 8747574515460828349, guid: c890f7cd7dc49924ca68293cf38c6a59, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
